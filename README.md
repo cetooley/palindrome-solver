@@ -1,7 +1,7 @@
 # Palindrome Solver
 
 ## Problem:
-Find a maximum "palindromic" number given a length l of operands (default l=3)
+Find a maximum "palindromic" number given a length l of operands (default l=3).  Apparently this is a Project Euler problem, #4 to be specific: https://projecteuler.net/problem=4
 
 ## Usage:
 
